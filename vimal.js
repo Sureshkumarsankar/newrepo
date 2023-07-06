@@ -48,3 +48,5 @@ function findStringDuplicates(arr) {
 // Example usage
 var strings = ["a", "b", "c", "a", "b", "c", "a", "e"];
 findStringDuplicates(strings);
+
+//new line
