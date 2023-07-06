@@ -50,3 +50,5 @@ var strings = ["a", "b", "c", "a", "b", "c", "a", "e"];
 findStringDuplicates(strings);
 
 //new line
+
+//second commit
